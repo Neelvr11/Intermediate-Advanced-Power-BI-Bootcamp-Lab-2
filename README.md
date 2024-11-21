@@ -1,5 +1,5 @@
 # Intermediate-Advanced-Power-BI-Bootcamp-Lab-2-Data Transform/ Cleaning
-Skillsoft - Data Society conducted a 4 day Intermediate/Advanced Power BI Bootcamp.
+Skillsoft - Data Society 4 day Intermediate/Advanced Power BI Bootcamp.
 
 # 1) Impot and clean the sales target table so that is in a usable format for data modelling
 
